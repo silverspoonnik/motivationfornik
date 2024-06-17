@@ -1,0 +1,29 @@
+body{
+    background-color: plum;
+}
+
+div{
+    text-align: center;
+    width: 50%;
+    margin-left: 25%;
+}
+h1{
+   color: yellow;
+   font: bold;
+    font-size: 1000%; 
+}
+img{
+    border: 20px solid;
+    border-color: yellow;
+    width: 100%;
+  
+}
+p
+{
+    font-size: 10rem;
+    color: yellow;
+}
+#imp{
+    color: black;
+    font-size: 5rem;
+}
